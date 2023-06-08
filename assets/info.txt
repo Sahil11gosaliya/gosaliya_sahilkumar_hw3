@@ -1,0 +1,11 @@
+Info for FIP scaffold
+
+The font family would be Arial, and sizes would be much similar to the size provided in xd.
+
+
+
+
+The scaffold will follow the box sizing:
+
+For hero img, it will be by default media queries width and height are yet to be decided.
+Same with the product images and background images.
